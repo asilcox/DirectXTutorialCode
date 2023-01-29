@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\SkyVault\Part3-Triangle\Debug\Part3-Triangle.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\SkyVault\Part3-Triangle\Part3-Triangle\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\SkyVault\Part3-Triangle\Part3-Triangle\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

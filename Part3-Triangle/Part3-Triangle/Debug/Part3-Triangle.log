@@ -1,0 +1,9 @@
+﻿  Application.cpp
+  RenderManager.cpp
+E:\SkyVault\Part3-Triangle\Part3-Triangle\RenderManager.cpp(9,25): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\Part3-Triangle\Part3-Triangle\RenderManager.cpp(10,26): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\Part3-Triangle\Part3-Triangle\RenderManager.cpp(45,20): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\Part3-Triangle\Part3-Triangle\RenderManager.cpp(46,21): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  WinMain.cpp
+  Generating Code...
+  Part3-Triangle.vcxproj -> E:\SkyVault\Part3-Triangle\Debug\Part3-Triangle.exe
