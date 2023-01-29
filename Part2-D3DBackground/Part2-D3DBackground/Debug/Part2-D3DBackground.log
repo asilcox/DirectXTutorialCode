@@ -1,0 +1,10 @@
+﻿  Application.cpp
+  RenderManager.cpp
+E:\SkyVault\Part2-D3DBackground\Part2-D3DBackground\RenderManager.cpp(9,25): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\Part2-D3DBackground\Part2-D3DBackground\RenderManager.cpp(10,26): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\Part2-D3DBackground\Part2-D3DBackground\RenderManager.cpp(45,20): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\Part2-D3DBackground\Part2-D3DBackground\RenderManager.cpp(46,21): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  Window.cpp
+  WinMain.cpp
+  Generating Code...
+  Part2-D3DBackground.vcxproj -> E:\SkyVault\Part2-D3DBackground\Debug\Part2-D3DBackground.exe
