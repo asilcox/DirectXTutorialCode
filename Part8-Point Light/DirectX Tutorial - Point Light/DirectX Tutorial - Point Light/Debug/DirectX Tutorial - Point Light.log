@@ -1,0 +1,20 @@
+﻿  Application.cpp
+  RenderManager.cpp
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(11,25): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(12,26): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(47,20): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(48,21): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(275,22): warning C4018: '<': signed/unsigned mismatch
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(299,20): warning C4018: '<': signed/unsigned mismatch
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(303,33): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(303,67): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(303,101): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(304,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(304,63): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(304,95): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(305,33): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(305,67): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\RenderManager.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+  WinMain.cpp
+  Generating Code...
+  DirectX Tutorial - Point Light.vcxproj -> E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\Debug\DirectX Tutorial - Point Light.exe

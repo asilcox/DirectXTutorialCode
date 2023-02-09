@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\Debug\DirectX Tutorial - Point Light.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\SkyVault\4 Lighting\DirectX Tutorial - Point Light\DirectX Tutorial - Point Light\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
