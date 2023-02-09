@@ -1,0 +1,11 @@
+﻿  compilation object save succeeded; see E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\PixelShader.cso
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(19,2-50): warning X3206: implicit truncation of vector type
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(20,18-32): warning X3206: 'mul': implicit truncation of vector type
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(20,2-32): warning X3206: implicit truncation of vector type
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(21,18-44): warning X3206: 'mul': implicit truncation of vector type
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(21,2-44): warning X3206: implicit truncation of vector type
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(22,18-44): warning X3206: 'mul': implicit truncation of vector type
+E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.hlsl(22,2-44): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\SkyVault\3 Textures\DirectX Tutorial - Textures\DirectX Tutorial - Textures\VertexShader.cso
+  DirectX Tutorial - Textures.vcxproj -> E:\SkyVault\3 Textures\DirectX Tutorial - Textures\Debug\DirectX Tutorial - Textures.exe
