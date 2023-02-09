@@ -1,0 +1,20 @@
+﻿  Application.cpp
+  RenderManager.cpp
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(11,25): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(12,26): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(47,20): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(48,21): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(251,22): warning C4018: '<': signed/unsigned mismatch
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(279,33): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(279,67): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(279,101): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(280,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(280,63): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(280,95): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(281,33): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(281,67): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\RenderManager.cpp(286,20): warning C4018: '<': signed/unsigned mismatch
+  WinMain.cpp
+  Generating Code...
+  DirectX Tutorial - OBJ File Loader.vcxproj -> E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\Debug\DirectX Tutorial - OBJ File Loader.exe

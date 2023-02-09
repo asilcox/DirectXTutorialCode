@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\Debug\DirectX Tutorial - OBJ File Loader.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\SkyVault\2 OBJ File Loader\DirectX Tutorial - OBJ File Loader\DirectX Tutorial - OBJ File Loader\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
